@@ -1,7 +1,7 @@
 # Automated water pump control system
 
-[![Build Status](https://travis-ci.org/mk28hw/Water_Pump_Control_System.svg?branch=master)](https://travis-ci.org/mk28hw/Water_Pump_Control_System)
-[![Inline docs](http://inch-ci.org/github/mk28hw/Water_Pump_Control_System.svg?branch=master)](http://inch-ci.org/github/mk28hw/Water_Pump_Control_System)
+[![Build Status](https://github.com/mk28hw/Water_Pump_Control_System.svg?branch=master)](https://github.com/mk28hw/Water_Pump_Control_System)
+[![Inline docs](https://github.com/mk28hw/Water_Pump_Control_System.svg?branch=master)](https://github.com/github/mk28hw/Water_Pump_Control_System)
 
 ### Description
 
