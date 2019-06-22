@@ -1,8 +1,5 @@
 # Automated water pump control system
 
-[![Build Status](https://github.com/mk28hw/Water_Pump_Control_System.svg?branch=master)](https://github.com/mk28hw/Water_Pump_Control_System)
-[![Inline docs](https://github.com/mk28hw/Water_Pump_Control_System.svg?branch=master)](https://github.com/github/mk28hw/Water_Pump_Control_System)
-
 ### Description
 
 This project is meant to be used in a system with a set of photovoltaic solar panels and a battery.
